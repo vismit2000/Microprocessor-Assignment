@@ -24,4 +24,4 @@ The report contains -
 - Circuit Diagram
 - References
 
-<a href="https://github.com/kunal-mohta/Microprocessor-Assignment/blob/master/report.pdf" target="_blank">View Report</a>
+<a href="https://github.com/vismit2000/Microprocessor-Assignment/blob/master/Report.pdf" target="_blank">View Report</a>
